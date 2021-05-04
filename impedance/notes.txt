@@ -1,0 +1,3 @@
+vektorvoltmetr - synchronní detektor přepínající cmezi reálnou a imaginární složkou
+
+Do zprávy dát i odvození paralelního zapojení kondíků.
